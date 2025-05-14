@@ -1,5 +1,5 @@
 # vs-acme-sync
-// TODO(user): Add simple overview of use/purpose
+Sync virtual services with acme pods in cert manager for istio
 
 ## Description
 // TODO(user): An in-depth paragraph about your project and overview of use
